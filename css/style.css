@@ -1,0 +1,82 @@
+.foto-vale{
+    width: 740px;
+    background-position: center;
+}
+
+.redondo{
+    position: relative;
+    display: inline-block;
+    border-radius: 100px;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    bottom: 50px;
+    left: 360px;
+    transform: translate(-50%,-50%);
+}
+
+.h1{
+    size: 35px;
+    line-height: 29.64px;
+    text-align: center;
+}
+
+.cont-1{
+    height: 270px;
+}
+
+.logos img{
+    width: 28%;
+}
+
+.logo-f{
+    position: relative;
+    left: 20px;
+}
+
+.logo-i{
+    position: relative;
+    bottom: 200px;
+    left: 260px;
+}
+
+.logo-g{
+    position: relative;
+    bottom: 403px;
+    left: 490px;
+}
+
+.cont{
+    background-color: white;
+    font-family: Times New Roman;
+    font-weight: 400;
+    size: 15px;
+}
+.titulo{
+    color: #005677;
+    font-family: 
+    Times New Roman;
+    background-color: #C4C4C4;
+    font-weight: 700px;
+    size: 20px;
+}
+.pie-pag{
+    background-color: #005677;
+    font-family: 
+    Times New Roman;
+    color: white;
+    text-align: center;
+}
+
+.letra{
+    font-style: italic;
+    font-weight: 700;
+    size: 15px;
+    line-height: 12.7px;
+}
+
+.dos{
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 80px;
+}
