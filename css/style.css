@@ -1,6 +1,8 @@
 .foto-vale{
     width: 740px;
     background-position: center;
+    display: flex; 
+    justify-content: center;
 }
 
 .redondo{
@@ -11,8 +13,11 @@
     height: 200px;
     object-fit: cover;
     bottom: 50px;
-    left: 360px;
-    transform: translate(-50%,-50%);
+    left: 270px;
+}
+
+.cont-prin{
+    height: 600px;
 }
 
 .h1{
@@ -26,7 +31,7 @@
 }
 
 .logos img{
-    width: 28%;
+    width: 160px;
 }
 
 .logo-f{
@@ -36,13 +41,13 @@
 
 .logo-i{
     position: relative;
-    bottom: 200px;
+    bottom: 160px;
     left: 260px;
 }
 
 .logo-g{
     position: relative;
-    bottom: 403px;
+    bottom: 320px;
     left: 490px;
 }
 
